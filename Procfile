@@ -1,0 +1,1 @@
+web: streamlit run anime_recommendations.py 
