@@ -29,7 +29,7 @@ def fetch_anime_recommendations():
 def main():
     # Set page config and custom CSS
     st.set_page_config(
-        page_title="Anime Recommendations",
+        page_title="AnimeNext",
         page_icon="🎬",
         layout="wide",
         menu_items={} # This removes menu items
