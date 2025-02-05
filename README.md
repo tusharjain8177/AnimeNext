@@ -25,7 +25,7 @@ A sleek and intuitive web application that helps you discover new anime based on
 
 ## 🚀 Live Demo
 
-Visit [AnimeMatch](your-deployed-app-link) to see the application in action!
+Visit [AnimeNext](https://animenext-ktg7ypehsvud3wbmdeazzt.streamlit.app/) to see the application in action!
 
 ## 🛠️ Installation
 
