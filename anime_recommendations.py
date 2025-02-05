@@ -35,6 +35,13 @@ def main():
         menu_items={} # This removes menu items
     )
 
+    # Add Google site verification meta tag
+    st.markdown("""
+        <head>
+            <meta name="google-site-verification" content="Ck3bo_4Gl6c4RD_qtL9Uqh--slQ9DNPQS1NzHgnWLv4" />
+        </head>
+    """, unsafe_allow_html=True)
+
     # Custom CSS for better styling
     st.markdown("""
         <style>
